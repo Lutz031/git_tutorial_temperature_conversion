@@ -1,2 +1,2 @@
 def convert temperature(t):
-	reurn t*9/5+32
+	return t*9/5+32
